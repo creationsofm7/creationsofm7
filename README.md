@@ -1,60 +1,26 @@
-<img src="https://raw.githubusercontent.com/creationsofm7/creationsofm7/main/assets/editorial-header.svg" width="100%" alt="Mudit Pandey. AI Technical PM working with Fortune 50 enterprises. Building is my love language." />
+<img src="https://raw.githubusercontent.com/creationsofm7/creationsofm7/main/assets/letter.svg" width="100%" alt="Hey, I'm Mudit. A personal letter about curiosity, building, and my work as an AI Technical Product Manager. With love, Mudit. Expand the plain-text letter below to read the full text." />
 
-Outside my enterprise work, I build practical tools and full-stack applications. A selection of my personal projects is below.
-
-### 01 / LocalTV Remote
-
-Control your Windows PC from your phone browser. Mouse, keyboard, and volume over Wi-Fi—no phone app required.
-
-[![Total GitHub release asset downloads](https://img.shields.io/github/downloads/creationsofm7/localtv-remote/total?style=flat-square&label=downloads&color=111111&labelColor=555555)](https://github.com/creationsofm7/localtv-remote/releases)
-
-[Explore the code](https://github.com/creationsofm7/localtv-remote) · [Download for Windows](https://github.com/creationsofm7/localtv-remote/releases/latest) · [Read the guide](https://creationsofm7.github.io/localtv-remote/)
-
----
-
-**More things I've built** · Select a project to expand.
+[Read about LocalTV Remote →](https://github.com/creationsofm7/localtv-remote)
 
 <details>
-<summary><strong>02 / Course</strong> — AI-assisted learning</summary>
+<summary>Read the letter as plain text</summary>
 
-Create and share AI-assisted courses, organize resources, and keep notes alongside your learning.
+Hey, I'm Mudit.
 
-[Explore Course →](https://github.com/creationsofm7/Course)
+I love building things. I'm naturally curious, and I enjoy turning what I learn into solutions for problems I face or see others facing.
 
-</details>
+During the week, I work as an AI Technical Product Manager at an enterprise AI company, where I help build solutions for Fortune 50 and Fortune 500 companies, along with our core AI platform.
 
-<details>
-<summary><strong>03 / MOC · MyOwnCloud</strong> — A full-stack experiment</summary>
+Outside of work, you'll often find me experimenting with new technologies, exploring ideas on GitHub, and building things simply because I'm curious to see if they work.
 
-A monorepo bringing together a Django backend and React frontend.
+One of those experiments was a small remote control app I built to solve a problem of my own. To my surprise, it started getting traction from people who found it useful. You can read more about it [here](https://github.com/creationsofm7/localtv-remote).
 
-[Explore MyOwnCloud →](https://github.com/creationsofm7/MOC-MyOwnCloud)
+I'm still learning, experimenting, and figuring things out. Some ideas work, others don't. But I enjoy the process of building them either way.
 
-</details>
+Thanks for stopping by. I'm glad you're here.
 
-<details>
-<summary><strong>04 / LaTeX Copilot</strong> — LaTeX tooling</summary>
+*With love,*
 
-My LaTeX tooling project, built with Next.js.
-
-[Explore LaTeX Copilot →](https://github.com/creationsofm7/latex-copilot)
-
-</details>
-
-<details>
-<summary><strong>05 / Polls App</strong> — Real-time participation</summary>
-
-Create and share polls with live results. Built with Next.js, FastAPI, and PostgreSQL, with server-sent events for real-time updates.
-
-[Explore Polls App →](https://github.com/creationsofm7/Polls-App)
-
-</details>
-
-<details>
-<summary><strong>06 / PaintJOB</strong> — From walls to motion paths</summary>
-
-Plan wall-painting projects with a visual editor and motion-path generation.
-
-[Explore PaintJOB →](https://github.com/creationsofm7/PaintJOB) · [Watch the demo →](https://youtu.be/NDGyTdRObIE)
+**Mudit**
 
 </details>
