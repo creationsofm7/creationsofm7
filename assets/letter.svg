@@ -4,9 +4,7 @@
   <style>
     text { fill: #191919; font-family: Georgia, 'Times New Roman', serif; }
     .body { font-size: 26px; }
-    .signature { fill: none; stroke: #191919; stroke-width: 2.7; stroke-linecap: round; stroke-linejoin: round; stroke-dasharray: 1; stroke-dashoffset: 0; animation: write 3.5s ease-in-out both; }
-    @keyframes write { from { stroke-dashoffset: 1; } to { stroke-dashoffset: 0; } }
-    @media (prefers-reduced-motion: reduce) { .signature { animation: none; } }
+    .signature { font-family: 'Palatino Linotype', 'Book Antiqua', Palatino, Georgia, serif; font-size: 58px; font-style: italic; }
   </style>
   <rect width="1000" height="1220" fill="#ffffff"/>
   <text x="80" y="130" font-size="54" letter-spacing="-1.5">Hey, I'm Mudit.</text>
@@ -35,10 +33,7 @@
       <tspan x="80" dy="39">work, others don't. But I enjoy the process of building them either way.</tspan>
     </text>
     <text x="80" y="852">Thanks for stopping by. I'm glad you're here.</text>
-    <text x="80" y="965" font-style="italic">With love,</text>
+    <text x="920" y="965" text-anchor="end" font-style="italic">With love,</text>
   </g>
-  <g transform="translate(78 995) rotate(-5 160 60)">
-    <title>Mudit — a custom handwritten signature</title>
-    <path class="signature" pathLength="1" d="M8 100 C22 77 31 24 44 12 C49 8 44 58 41 84 C51 62 72 19 83 16 C92 15 70 72 77 86 C87 99 111 38 120 33 C127 29 106 81 116 88 C126 95 144 72 151 57 C142 77 139 93 151 91 C169 88 185 56 192 49 C183 69 176 91 187 91 C197 91 209 73 214 66 M189 86 C176 111 164 103 170 83 C176 60 193 49 199 60 C207 38 228 -11 235 -7 C245 4 206 73 199 87 C192 104 207 90 216 79 M231 61 C226 73 218 91 228 91 C239 91 249 77 256 68 M238 43 L240 40 M283 30 C271 53 249 91 261 95 C272 99 291 79 302 70 M252 57 C271 54 291 52 309 52 M30 124 C115 113 241 116 326 104"/>
-  </g>
+  <text x="920" y="1046" text-anchor="end" class="signature">Mudit</text>
 </svg>
