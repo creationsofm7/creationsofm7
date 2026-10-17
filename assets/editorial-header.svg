@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="400" viewBox="0 0 1200 400" role="img" aria-labelledby="title description">
+  <title id="title">Mudit Pandey — Building is my love language</title>
+  <desc id="description">An editorial black-on-white header. A fine underline draws itself once beneath the name. AI Technical PM, working with Fortune 50 enterprises.</desc>
+  <style>
+    .serif { font-family: Georgia, 'Times New Roman', serif; }
+    .caption { font-family: Arial, Helvetica, sans-serif; font-size: 17px; letter-spacing: 3px; }
+    .rule { stroke-dasharray: 1064; stroke-dashoffset: 0; animation: draw 2.4s ease-out both; }
+    @keyframes draw { from { stroke-dashoffset: 1064; } to { stroke-dashoffset: 0; } }
+    @media (prefers-reduced-motion: reduce) { .rule { animation: none; } }
+  </style>
+  <rect width="1200" height="400" fill="#ffffff"/>
+  <g fill="#111111">
+    <text x="68" y="65" class="caption">AI TECHNICAL PM</text>
+    <text x="62" y="182" class="serif" font-size="104" letter-spacing="-4">Mudit Pandey.</text>
+    <path class="rule" d="M68 216H1132" fill="none" stroke="#111111" stroke-width="1"/>
+    <text x="68" y="286" class="serif" font-size="40" font-style="italic">Building is my love language.</text>
+    <text x="68" y="350" class="caption" font-size="17">WORKING WITH FORTUNE 50 ENTERPRISES</text>
+  </g>
+</svg>
