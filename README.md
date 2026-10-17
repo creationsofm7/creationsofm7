@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/creationsofm7/creationsofm7/main/assets/letter.svg?v=upright-serif-1" width="100%" alt="Hey, I'm Mudit. A personal letter about curiosity, building, and my work as an AI Technical Product Manager. With love, Mudit. Expand the plain-text letter below to read the full text." />
+<img src="https://raw.githubusercontent.com/creationsofm7/creationsofm7/main/assets/letter.svg?v=momo-m7-1" width="100%" alt="Hey, I'm Mudit. M7. A personal letter about curiosity, building, and my work as an AI Technical Product Manager. With love, Mudit. Expand the plain-text letter below to read the full text." />
 
 [Read about LocalTV Remote →](https://github.com/creationsofm7/localtv-remote)
 
