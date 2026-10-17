@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="1450" viewBox="0 0 1000 1450" role="img" aria-labelledby="title description">
+  <title id="title">A letter from Mudit</title>
+  <desc id="description">Mudit shares his curiosity for building, his work as an AI Technical Product Manager, and the personal experiment that became LocalTV Remote. The full letter is available as plain text below the image.</desc>
+  <style>
+    text { fill: #191919; font-family: Georgia, 'Times New Roman', serif; }
+    .body { font-size: 26px; }
+    .signature { fill: none; stroke: #191919; stroke-width: 2.7; stroke-linecap: round; stroke-linejoin: round; stroke-dasharray: 1; stroke-dashoffset: 0; animation: write 3.5s ease-in-out both; }
+    @keyframes write { from { stroke-dashoffset: 1; } to { stroke-dashoffset: 0; } }
+    @media (prefers-reduced-motion: reduce) { .signature { animation: none; } }
+  </style>
+  <rect width="1000" height="1450" fill="#ffffff"/>
+  <text x="80" y="130" font-size="54" letter-spacing="-1.5">Hey, I'm Mudit.</text>
+  <g class="body">
+    <text x="80" y="210">
+      <tspan x="80">I love building things. I'm naturally curious, and I enjoy turning</tspan>
+      <tspan x="80" dy="39">what I learn into solutions for problems I face or see others facing.</tspan>
+    </text>
+    <text x="80" y="315">
+      <tspan x="80">During the week, I work as an AI Technical Product Manager at an</tspan>
+      <tspan x="80" dy="39">enterprise AI company, where I help build solutions for Fortune 50</tspan>
+      <tspan x="80" dy="39">and Fortune 500 companies, along with our core AI platform.</tspan>
+    </text>
+    <text x="80" y="459">
+      <tspan x="80">Outside of work, you'll often find me experimenting with new</tspan>
+      <tspan x="80" dy="39">technologies, exploring ideas on GitHub, and building things simply</tspan>
+      <tspan x="80" dy="39">because I'm curious to see if they work.</tspan>
+    </text>
+    <text x="80" y="603">
+      <tspan x="80">One of those experiments was a small remote control app I built to</tspan>
+      <tspan x="80" dy="39">solve a problem of my own. To my surprise, it started getting traction</tspan>
+      <tspan x="80" dy="39">from people who found it useful. You can read more about it <tspan text-decoration="underline">here</tspan>.</tspan>
+    </text>
+    <text x="80" y="747">
+      <tspan x="80">I'm still learning, experimenting, and figuring things out. Some ideas</tspan>
+      <tspan x="80" dy="39">work, others don't. But I enjoy the process of building them either way.</tspan>
+    </text>
+    <text x="80" y="852">Thanks for stopping by. I'm glad you're here.</text>
+    <text x="80" y="965" font-style="italic">With love,</text>
+  </g>
+  <g transform="translate(78 995) rotate(-5 160 60)">
+    <title>Mudit — a custom handwritten signature</title>
+    <path class="signature" pathLength="1" d="M8 100 C22 77 31 24 44 12 C49 8 44 58 41 84 C51 62 72 19 83 16 C92 15 70 72 77 86 C87 99 111 38 120 33 C127 29 106 81 116 88 C126 95 144 72 151 57 C142 77 139 93 151 91 C169 88 185 56 192 49 C183 69 176 91 187 91 C197 91 209 73 214 66 M189 86 C176 111 164 103 170 83 C176 60 193 49 199 60 C207 38 228 -11 235 -7 C245 4 206 73 199 87 C192 104 207 90 216 79 M231 61 C226 73 218 91 228 91 C239 91 249 77 256 68 M238 43 L240 40 M283 30 C271 53 249 91 261 95 C272 99 291 79 302 70 M252 57 C271 54 291 52 309 52 M30 124 C115 113 241 116 326 104"/>
+  </g>
+  <path d="M80 1265H920" stroke="#e8e8e8" stroke-width="1"/>
+  <text x="80" y="1314" font-size="18" font-style="italic" fill="#555555">A little curiosity. A lot of building.</text>
+</svg>
