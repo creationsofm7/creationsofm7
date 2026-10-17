@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="1450" viewBox="0 0 1000 1450" role="img" aria-labelledby="title description">
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="1220" viewBox="0 0 1000 1220" role="img" aria-labelledby="title description">
   <title id="title">A letter from Mudit</title>
   <desc id="description">Mudit shares his curiosity for building, his work as an AI Technical Product Manager, and the personal experiment that became LocalTV Remote. The full letter is available as plain text below the image.</desc>
   <style>
@@ -8,7 +8,7 @@
     @keyframes write { from { stroke-dashoffset: 1; } to { stroke-dashoffset: 0; } }
     @media (prefers-reduced-motion: reduce) { .signature { animation: none; } }
   </style>
-  <rect width="1000" height="1450" fill="#ffffff"/>
+  <rect width="1000" height="1220" fill="#ffffff"/>
   <text x="80" y="130" font-size="54" letter-spacing="-1.5">Hey, I'm Mudit.</text>
   <g class="body">
     <text x="80" y="210">
@@ -41,6 +41,4 @@
     <title>Mudit — a custom handwritten signature</title>
     <path class="signature" pathLength="1" d="M8 100 C22 77 31 24 44 12 C49 8 44 58 41 84 C51 62 72 19 83 16 C92 15 70 72 77 86 C87 99 111 38 120 33 C127 29 106 81 116 88 C126 95 144 72 151 57 C142 77 139 93 151 91 C169 88 185 56 192 49 C183 69 176 91 187 91 C197 91 209 73 214 66 M189 86 C176 111 164 103 170 83 C176 60 193 49 199 60 C207 38 228 -11 235 -7 C245 4 206 73 199 87 C192 104 207 90 216 79 M231 61 C226 73 218 91 228 91 C239 91 249 77 256 68 M238 43 L240 40 M283 30 C271 53 249 91 261 95 C272 99 291 79 302 70 M252 57 C271 54 291 52 309 52 M30 124 C115 113 241 116 326 104"/>
   </g>
-  <path d="M80 1265H920" stroke="#e8e8e8" stroke-width="1"/>
-  <text x="80" y="1314" font-size="18" font-style="italic" fill="#555555">A little curiosity. A lot of building.</text>
 </svg>
